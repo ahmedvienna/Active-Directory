@@ -4,4 +4,6 @@ Are you looking to set up a local Active Directory environment with all virtual 
 
 To set up a local Active Directory environment with pre-configured virtual machines, please follow the steps outlined below. The environment includes three machines: one Domain Controller and two Workstations. All essential configurations have already been completed, including networking, IP assignments, user accounts, machine setup, and local administrative access.
 
+The PDF file contains the links for the three VMware files, including the Domain Controller and the two workstations.
+
 Simply download the "Vulnerable Active Directory in VMware Documentation" and follow the instructions provided. This documentation will guide you through the remaining setup steps, making the process straightforward and efficient. Once completed, you’ll have a vulnerable Active Directory environment at your disposal for testing and training on Active Directory vulnerabilities.
